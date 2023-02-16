@@ -1,0 +1,28 @@
+.header {
+  padding: 14px 0;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-inner__title {
+  font-family: "Anonymous Pro", monospace;
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.header-enter {
+  margin-right: 20px;
+}
+
+.username {
+  color: #1687a7;
+}
+
+p {
+  margin: 0;
+}
